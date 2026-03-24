@@ -1,5 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/julia.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/julia)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-## image_name="cyberdojofoundation/julia"
+## display_name="Julia 1.12.5"
+## image_name=[ghcr.io/cyber-dojo-languages/julia](https://ghcr.io/cyber-dojo-languages/julia)
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
